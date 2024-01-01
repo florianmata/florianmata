@@ -1,4 +1,4 @@
-# Hello there, I'm Floria Mata 👋
+# Hello there, I'm Florian Mata 👋
 
 ![Banner github](https://github.com/florianmata/florianmata/assets/155329741/6e6d7bc6-a8d0-4a9a-ab66-fd9ed60efc11) 
 
